@@ -1,0 +1,13 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Modul npm untuk mengecek bilangan prima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["prime", "checker"],
+  "author": "Diva",
+  "license": "MIT",
+  "type": "commonjs"
+}

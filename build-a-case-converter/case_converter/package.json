@@ -1,0 +1,15 @@
+
+
+{
+  "name": "case-converter",
+  "version": "1.0.0",
+  "description": "A package to convert strings into different cases.",
+  "keywords": [],
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
